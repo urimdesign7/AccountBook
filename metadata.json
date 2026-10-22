@@ -1,0 +1,6 @@
+{
+  "name": "스마트 가계부 (Smart Money Manager)",
+  "description": "문자·영수증 자동 인식, 예산 관리, 지출 통계 및 캘린더를 지원하는 스마트 가계부 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
